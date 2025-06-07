@@ -1,6 +1,4 @@
-# Hands-On-in-AI
-
-# README for AI Hands-On Notebooks
+# AI Hands-On Notebooks
 
 ## Overview
 This repository contains a collection of Jupyter notebooks that provide hands-on experience with different artificial intelligence techniques and frameworks. Each notebook focuses on a specific concept or algorithm, allowing me to learn and experiment with AI technologies incrementally.
